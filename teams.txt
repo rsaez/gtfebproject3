@@ -4,3 +4,8 @@
 [ GitHub repository link ]
 [ Heroku/Deployment link ]
 
+David Toler, Rodolfo Saez, Shazi Jiwani
+FashionZen
+This app will allow a user to organize their closet and identifying their favorite clothes
+https://github.com/rsaez/fashionzen
+https://fashionzen.herokuapp.com
